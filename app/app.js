@@ -13,7 +13,7 @@ app.run(['GAuth', 'GApi', 'GData', '$state', '$rootScope', '$window', '$cookies'
 
         $rootScope.gdata = GData;
 
-        var CLIENT = '526374069175-4vv42arm0ksdr9a1lgkve6vbktfkmlvv.apps.googleusercontent.com';
+        var CLIENT = '184925684994-uvnbdf5c0er7ieu9g7arutucc0rg1lvk.apps.googleusercontent.com';
         var BASE;
         if($window.location.hostname == 'localhost') {
             BASE = '//localhost:8080/_ah/api';

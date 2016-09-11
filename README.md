@@ -1,4 +1,4 @@
-# Example
+# Example forked from
 
 this code is executed here :
 http://maximepvrt.github.io/angular-google-gapi
